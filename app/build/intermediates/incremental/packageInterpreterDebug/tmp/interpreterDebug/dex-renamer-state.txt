@@ -1,0 +1,10 @@
+#Fri Feb 05 19:27:54 COT 2021
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=D\:\\Documentos\\Noveno Semestre\\Seminario de Sistemas\\android\\app\\build\\intermediates\\dex\\interpreterDebug\\mergeLibDexInterpreterDebug\\classes_0.dex
+base.1=D\:\\Documentos\\Noveno Semestre\\Seminario de Sistemas\\android\\app\\build\\intermediates\\dex\\interpreterDebug\\mergeProjectDexInterpreterDebug\\classes.dex
+base.0=D\:\\Documentos\\Noveno Semestre\\Seminario de Sistemas\\android\\app\\build\\intermediates\\dex\\interpreterDebug\\mergeExtDexInterpreterDebug\\classes.dex
